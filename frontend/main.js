@@ -1,2 +1,1 @@
-new ProductList();
-
+new App();
