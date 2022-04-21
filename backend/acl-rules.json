@@ -54,6 +54,9 @@
     },
     "orderSums": {
       "get": true
+    },
+    "orderDetailsWithSums": {
+      "get": true
     }
   }
 }
